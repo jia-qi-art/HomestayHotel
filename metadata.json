@@ -1,0 +1,6 @@
+{
+  "name": "民宿酒店预订与综合管理系统 (HomestayHotel PMS)",
+  "description": "基于 giteecode/homestayHotelPublic 架构的全功能民宿酒店系统，涵盖前台用户预订、房态看板、预订/入住/续住/退房办理、订单与财务统计及多角色权限管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
